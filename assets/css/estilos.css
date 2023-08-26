@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    font-family: Verdana;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.card-img-top {
+    width: 6rem;
+    align-self: center;
+}
